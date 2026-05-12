@@ -1,6 +1,0 @@
-flowr-app/
-├── index.html        ← paste flowr-landing.html content here
-├── app/
-│   └── index.jsx     ← paste flowr-launch.jsx content here
-├── package.json
-└── vite.config.js
